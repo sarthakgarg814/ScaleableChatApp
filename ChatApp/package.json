@@ -1,5 +1,9 @@
 {
-  "name": "ChatApp",
+  "name": "chatapp",
+  "author": {
+    "name": "Sarthak Garg",
+    "email": "sarthakgarg814@gmail.com"
+  },
   "private": true,
   "scripts": {
     "build": "turbo build",
