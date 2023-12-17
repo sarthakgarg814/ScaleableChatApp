@@ -8,6 +8,8 @@
         "dev": "npx tsc-watch --onSuccess \"node dist/index.js\""
     },
     "dependencies": {
+        "dotenv": "^16.3.1",
+        "ioredis": "^5.3.2",
         "socket.io": "^4.7.2",
         "tsc-watch": "^6.0.4",
         "typescript": "^5.3.3"
